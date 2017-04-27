@@ -1,8 +1,7 @@
-package com.acxiom;
+package com.jwszol;
 
 import org.apache.hadoop.fs.FileSystem;
 import org.kohsuke.args4j.CmdLineParser;
-import org.kohsuke.args4j.ExampleMode;
 import org.kohsuke.args4j.Option;
 
 

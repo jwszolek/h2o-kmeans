@@ -1,6 +1,5 @@
-package com.acxiom;
+package com.jwszol;
 
-import org.apache.hadoop.fs.Path;
 import water.Futures;
 import water.H2O;
 import water.Key;
@@ -8,7 +7,6 @@ import water.fvec.*;
 import hex.kmeans.KMeans;
 import hex.kmeans.KMeansModel;
 import hex.kmeans.KMeansModel.KMeansParameters;
-import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.*;
 import java.io.IOException;
 
